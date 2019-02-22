@@ -3,8 +3,9 @@ package vehiculo;
  * 
  * @author Antonio garcia
  * @version 20/10/2018.
- * Esta clase es una clase hija que hereda de la clase madre vehiculo.
- * Esta clase recibe ciertos parametros heredados de la madre como el numRuedas y la autonomia.
+ * <h2>Clase Hija<h2>
+ * <p>Esta clase es una clase hija que hereda de la clase madre vehiculo.
+ * Esta clase recibe ciertos parametros heredados de la madre como el numRuedas y la autonomia.<p>
  *
  */
 
